@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://questionablehandle.github.io/posts/pyramids/</loc>
-    <lastmod>2023-11-09T13:13:38+00:00</lastmod>
-  </url><url>
-    <loc>https://questionablehandle.github.io/posts/</loc>
-    <lastmod>2023-11-09T13:13:38+00:00</lastmod>
-  </url><url>
-    <loc>https://questionablehandle.github.io/</loc>
-    <lastmod>2023-11-09T13:13:38+00:00</lastmod>
-  </url><url>
-    <loc>https://questionablehandle.github.io/categories/</loc>
-  </url><url>
-    <loc>https://questionablehandle.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://questionablehandle.github.io/pt/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://questionablehandle.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2023-11-09T13:13:38+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
