@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pt/categories/</loc>
+    <loc>https://questionablehandle.github.io/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://questionablehandle.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/categories/"
+                href="https://questionablehandle.github.io/pt/categories/"
                 />
   </url><url>
-    <loc>/pt/</loc>
+    <loc>https://questionablehandle.github.io/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://questionablehandle.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/"
+                href="https://questionablehandle.github.io/pt/"
                 />
   </url><url>
-    <loc>/pt/series/</loc>
+    <loc>https://questionablehandle.github.io/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://questionablehandle.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/series/"
+                href="https://questionablehandle.github.io/pt/series/"
                 />
   </url><url>
-    <loc>/pt/tags/</loc>
+    <loc>https://questionablehandle.github.io/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://questionablehandle.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/"
+                href="https://questionablehandle.github.io/pt/tags/"
                 />
   </url>
 </urlset>
