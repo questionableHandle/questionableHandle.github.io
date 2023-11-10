@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Projects</title>
-    <link>https://questionablehandle.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 09 Nov 2023 13:13:38 +0000</lastBuildDate><atom:link href="https://questionablehandle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 13:13:38 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kafre Images</title>
-      <link>https://questionablehandle.github.io/post/pyramidimages/</link>
+      <link>/post/pyramidimages/</link>
       <pubDate>Thu, 09 Nov 2023 13:13:38 +0000</pubDate>
       
-      <guid>https://questionablehandle.github.io/post/pyramidimages/</guid>
+      <guid>/post/pyramidimages/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Khafre Casing Stones</title>
-      <link>https://questionablehandle.github.io/post/pyramids/</link>
+      <link>/post/pyramids/</link>
       <pubDate>Thu, 09 Nov 2023 13:13:38 +0000</pubDate>
       
-      <guid>https://questionablehandle.github.io/post/pyramids/</guid>
+      <guid>/post/pyramids/</guid>
       <description>
         
           

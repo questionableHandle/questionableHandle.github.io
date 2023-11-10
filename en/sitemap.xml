@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://questionablehandle.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-11-09T13:13:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://questionablehandle.github.io/pt/"
+                href="/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://questionablehandle.github.io/"
+                href="/"
                 />
   </url><url>
-    <loc>https://questionablehandle.github.io/post/pyramidimages/</loc>
+    <loc>/post/pyramidimages/</loc>
     <lastmod>2023-11-09T13:13:38+00:00</lastmod>
   </url><url>
-    <loc>https://questionablehandle.github.io/post/pyramids/</loc>
+    <loc>/post/pyramids/</loc>
     <lastmod>2023-11-09T13:13:38+00:00</lastmod>
   </url><url>
-    <loc>https://questionablehandle.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-11-09T13:13:38+00:00</lastmod>
   </url><url>
-    <loc>https://questionablehandle.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://questionablehandle.github.io/pt/categories/"
+                href="/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://questionablehandle.github.io/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://questionablehandle.github.io/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://questionablehandle.github.io/pt/series/"
+                href="/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://questionablehandle.github.io/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>https://questionablehandle.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://questionablehandle.github.io/pt/tags/"
+                href="/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://questionablehandle.github.io/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>
