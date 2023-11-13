@@ -17,8 +17,8 @@
       <description>
         
           
-            Faces North Face East Face South Face North Face Width of each stone Coloured by width relative to the average, red = narrower, blue = wider
-Height of each stone Coloured by height relative to the average, red = shorter, blue = taller
+            Faces North Face East Face South Face North Face Width of each stone Coloured by width relative to the average, red = wider, blue = narrower
+Height of each stone Coloured by height relative to the average, red = taller, blue = shorter
 Size (area) of each stone Coloured by size relative to the average, red = smaller, blue = bigger
 Vertical offset of each stone from its course Coloured by vertical offset, red = stone is above course average, blue = stone is below course average (measured between centroid of casing stone, and centroid of the whole course)
           
