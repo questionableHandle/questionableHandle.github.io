@@ -6,26 +6,10 @@
     <description>Recent content in Posts on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Edward Karmazyn</copyright>
     <lastBuildDate>Thu, 09 Nov 2023 13:13:38 +0000</lastBuildDate><atom:link href="https://questionablehandle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kafre Images</title>
-      <link>https://questionablehandle.github.io/post/pyramidimages/</link>
-      <pubDate>Thu, 09 Nov 2023 13:13:38 +0000</pubDate>
-      
-      <guid>https://questionablehandle.github.io/post/pyramidimages/</guid>
-      <description>
-        
-          
-            Faces North Face East Face South Face All Faces North Face Relative width of each stone to the face average Relative height of each stone to the face average Relative size of each stone to the face average Vertical offset of each stone from the edges of its course Relative width of each stone to its course Relative height of each stone to its course Slant of each stone&#39;s local masonry Slant of each stone Angle of the left edge of each stone Angle of the right edge of each stone Largest angle of each stone Individual casing stones Strings of casing stones Horizontal courses of casing stones Extrapolated pyramid outline Absolute width Absolute height Absolute size Relative vertical offset of each stone from its course Absolute vertical offset of each stone from its course Projected courses Relative width of each stone to the face averageColoured by width relative to the average, red = wider, blue = narrower Relative height of each stone to the face averageColoured by height relative to the average, red = taller, blue = shorter Relative size of each stone to the face averageColoured by size relative to the average, red = bigger, blue = smaller Vertical offset of each stone from the edges of its courseColoured by vertical offset from the edges of the course, red = stone is above course edges, blue = stone is below course edges (note, course edge height is calculated as the average height of the closest 3 stones to the edge) Relative width of each stone to its courseColoured by relative width to course, red = wider, blue = narrower Relative height of each stone to its courseColoured by relative height to course, red = taller, blue = shorter Slant of each stone&#39;s local masonryColoured by the angle of the local masonry surrounding the stone, red = clockwise, blue = anticlockwise, in ° Slant of each stoneColoured by the angle of the stone, red = clockwise, blue = anticlockwise, in ° (calculated as the angle between the centers of the stones to either side) Angle of the left edge of each stoneColoured by angle, red = clockwise, blue = anticlockwise, in ° Angle of the right edge of each stoneColoured by angle, red = clockwise, blue = anticlockwise, in ° Largest angle of each stoneColoured by angle, in ° Individual casing stonesColoured by casing stone Strings of casing stonesColoured by strings of casing stones Horizontal courses of casing stonesColoured by course Extrapolated pyramid outlineWhite lines show the projected pyramid outline.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Khafre Casing Stones</title>
+      <title>A Statistical Analysis of Khafre&#39;s Casing Stones</title>
       <link>https://questionablehandle.github.io/post/pyramids/</link>
       <pubDate>Thu, 09 Nov 2023 13:13:38 +0000</pubDate>
       
@@ -35,6 +19,22 @@
           
             Introduction The Pharaohs of the Old Kingdom&#39;s 4th Dynasty built towering, artificial sacred mountains of stone on the plateau overlooking their capital, Memphis. A pyramid was a symbol of their power and their dominance over both the physical world in which they resided and the intangible horizon that segregated the earth from the heavens.
 Khafre oversaw the building of the second-largest pyramid on bedrock ten metres higher than Khufu&#39;s, allowing his construction to rise above his predecessors&#39;.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Kafre Images</title>
+      <link>https://questionablehandle.github.io/post/pyramidimages/</link>
+      <pubDate>Thu, 09 Nov 2023 13:13:38 +0000</pubDate>
+      
+      <guid>https://questionablehandle.github.io/post/pyramidimages/</guid>
+      <description>
+        
+          
+            Faces North Face East Face South Face All Faces North Face Relative width of each stone to the face average Relative height of each stone to the face average Relative size of each stone to the face average Vertical offset of each stone from the edges of its course Relative width of each stone to its course Relative height of each stone to its course Slant of each stone&#39;s local masonry Slant of each stone Angle of the left edge of each stone Angle of the right edge of each stone Largest angle of each stone Individual casing stones Strings of casing stones Horizontal courses of casing stones Extrapolated pyramid outline Absolute width Absolute height Absolute size Relative vertical offset of each stone from its course Absolute vertical offset of each stone from its course Projected courses Relative width of each stone to the face average (North)Coloured by width relative to the average, red = wider, blue = narrower Relative height of each stone to the face average (North)Coloured by height relative to the average, red = taller, blue = shorter Relative size of each stone to the face average (North)Coloured by size relative to the average, red = bigger, blue = smaller Vertical offset of each stone from the edges of its course (North)Coloured by vertical offset from the edges of the course, red = stone is above course edges, blue = stone is below course edges (note, course edge height is calculated as the average height of the closest 3 stones to the edge) Relative width of each stone to its course (North)Coloured by relative width to course, red = wider, blue = narrower Relative height of each stone to its course (North)Coloured by relative height to course, red = taller, blue = shorter Slant of each stone&#39;s local masonry (North)Coloured by the angle of the local masonry surrounding the stone, red = clockwise, blue = anticlockwise, in ° Slant of each stone (North)Coloured by the angle of the stone, red = clockwise, blue = anticlockwise, in ° (calculated as the angle between the centers of the stones to either side) Angle of the left edge of each stone (North)Coloured by angle, red = clockwise, blue = anticlockwise, in ° Angle of the right edge of each stone (North)Coloured by angle, red = clockwise, blue = anticlockwise, in ° Largest angle of each stone (North)Coloured by angle, in ° Individual casing stones (North)Coloured by casing stone Strings of casing stones (North)Coloured by strings of casing stones Horizontal courses of casing stones (North)Coloured by course Extrapolated pyramid outline (North)White lines show the projected pyramid outline.
           
           
         
